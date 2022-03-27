@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 8bbe8ee8-1cdd-1751-b4d0-7cb71d513bc7
 resourcetype: Document
 title: Globalization - Dimensions & Domains
 uid: 91fa08f1-2743-cbdf-23f4-a79208c0f3ba

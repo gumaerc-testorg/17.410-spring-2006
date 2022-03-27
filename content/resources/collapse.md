@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 8bbe8ee8-1cdd-1751-b4d0-7cb71d513bc7
 resourcetype: Document
 title: Collapse
 uid: ab07cca3-5c73-a29b-f288-5d2b75174a0e
