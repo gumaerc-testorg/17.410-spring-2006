@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section features the required texts for the course and the readings
+  by session.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -81,7 +83,7 @@ Globalization Dimensions and Domains
 {{< tdopen >}}
 
 
-Highlights on Globalization - Dimensions and Domains ([PDF]({{< baseurl >}}/resources/wk2_highlights))
+Highlights on Globalization - Dimensions and Domains ({{% resource_link 91fa08f1-2743-cbdf-23f4-a79208c0f3ba "PDF" %}})
 
 _Required Readings_
 
@@ -101,7 +103,7 @@ Vitousek, Peter M., Harold A. Mooney, Jane Lubchenco, and Jerry M. Melillo. "Hum
 
 Hirst, Paul, and Grahame Thompson. _Globalization in Question: The International Economy and the Possibilities of Governance._ 2nd ed. Malden, MA: Polity Press, 2001, chapter 2. ISBN: 9780745621647.
 
-Collapse ([PDF]({{< baseurl >}}/resources/collapse))
+Collapse ({{% resource_link ab07cca3-5c73-a29b-f288-5d2b75174a0e "PDF" %}})
 
 _Graphs_
 

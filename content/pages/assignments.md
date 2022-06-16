@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides instructions for an optional writing assignment
+  for the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -7,7 +9,7 @@ title: Assignments
 uid: 89069e49-0e2d-263b-fd19-f65bea5be954
 ---
 
-There are two options for meeting the written requirements for this course; they are outlined in the [syllabus]({{< baseurl >}}/pages/syllabus). Option A consists of exams, one of which can be found in the [exams]({{< baseurl >}}/pages/exams) section. Option B consists of writing a paper, instructions for which appear below.
+There are two options for meeting the written requirements for this course; they are outlined in the {{% resource_link 9a5d78cd-282b-dcd2-1daf-1fd570a9f496 "syllabus" %}}. Option A consists of exams, one of which can be found in the {{% resource_link f83fdb57-2e7e-c0fc-2a3d-ef91b7fe5c51 "exams" %}} section. Option B consists of writing a paper, instructions for which appear below.
 
 The Process for Option B
 ------------------------
