@@ -6,6 +6,7 @@ file: /courses/17-410-globalization-migration-and-international-relations-spring
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Globalization - Dimensions & Domains
 uid: 91fa08f1-2743-cbdf-23f4-a79208c0f3ba
 ---
 Lecture notes on the global system, globalization continuum, the conventional view, and the emergent view.
-
