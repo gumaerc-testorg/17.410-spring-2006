@@ -8,6 +8,7 @@ description: Afghan refugees prepare wheat dough for bread in makeshift bakeries
   government agency that has provided development and humanitarian assistance worldwide
   for over 40 years. (Image courtesy of USAID/Martin Lueders.)
 file: /courses/17-410-globalization-migration-and-international-relations-spring-2006/86481e9a342d977de46ca6e207d1e0a6_chp_afghanrefuge.jpg
+file_size: 69378
 file_type: image/jpeg
 image_metadata:
   caption: ''
