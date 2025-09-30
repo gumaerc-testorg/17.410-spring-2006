@@ -58,9 +58,9 @@ Weiner, Myron, and Sharon Stanton Russell, eds. _Demography and National Securit
 Web sites Focusing on International Migration
 ---------------------------------------------
 
-The Inter-University Committee on [International Migration](http://web.mit.edu/cis/www/migration/)
+The Inter-University Committee on {{% resource_link "c258123a-fb8b-4dbd-b9e5-cf79d9440505" "International Migration" %}}
 
-Inter-University Initiative on [Humanitarian Studies and Field Practice](http://www.humanitarianstudies.org/)
+Inter-University Initiative on {{% resource_link "d4477589-23ac-4a79-8764-e3e1cafa7b65" "Humanitarian Studies and Field Practice" %}}
 
 Calendar
 --------
