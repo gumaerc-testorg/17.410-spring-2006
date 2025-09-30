@@ -57,17 +57,17 @@ Introduction - Intersections and Interconnections
 
 _Required Readings_
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262032001) Choucri, Nazli. "Introduction: Theoretical, Empirical, and Policy Perspectives." In _Global Accord: Environmental Challenges and International Responses_. Edited by Nazli Choucri. Cambridge, MA: MIT Press, 1993, pp. 1-40. ISBN: 9780262032001.
+{{% resource_link "4e714539-4fd6-4931-b400-5d1a327fc25c" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Choucri, Nazli. "Introduction: Theoretical, Empirical, and Policy Perspectives." In _Global Accord: Environmental Challenges and International Responses_. Edited by Nazli Choucri. Cambridge, MA: MIT Press, 1993, pp. 1-40. ISBN: 9780262032001.
 
 Clark, Ian. _Globalization and International Relations Theory_. Oxford, UK: Oxford University Press, 1999, introduction and chapter 1. ISBN: 9780198782094.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262621236) Litfin, Karen T. "The Greening of Sovereignty: An Introduction." In _The Greening of Sovereignty in World Politics_. Edited by Karen T. Litfin. Cambridge, MA: MIT Press, 1998, pp. 1-27. ISBN:9780262621236.
+{{% resource_link "f21f8b36-b2fe-4c99-9452-fac79c7f7419" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Litfin, Karen T. "The Greening of Sovereignty: An Introduction." In _The Greening of Sovereignty in World Politics_. Edited by Karen T. Litfin. Cambridge, MA: MIT Press, 1998, pp. 1-27. ISBN:9780262621236.
 
 Starr, Chauncey. "Sustaining the Human Environment: The Next Two Hundred Years." In _Technological Trajectories and the Human Environment_. Edited by Jesse H. Ausubel and H. Dale Langford. Washington, DC: National Academy Press, 1997, pp. 185-198. ISBN: 9780309051330.
 
 _Related Readings_
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262032001) Skolnikoff, Eugene B. "Science and Technology: The Sources of Change." In _Global Accord: Environmental Challenges and International Responses_. Edited by Nazli Choucri. Cambridge, MA: MIT Press, 1993, pp. 255-280. ISBN: 9780262032001.
+{{% resource_link "4e714539-4fd6-4931-b400-5d1a327fc25c" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Skolnikoff, Eugene B. "Science and Technology: The Sources of Change." In _Global Accord: Environmental Challenges and International Responses_. Edited by Nazli Choucri. Cambridge, MA: MIT Press, 1993, pp. 255-280. ISBN: 9780262032001.
 
 
 {{< tdclose >}}
@@ -129,7 +129,7 @@ _Required Readings_
 
 Brawley, Mark R. _The Politics of Globalization_. Peterborough, Ontario: The Broadview Press, 2002, chapters 2 and 8. ISBN: 9781551112800.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262032001) Choucri, Nazli, and Robert C. North. "Growth, Development, and Environmental Sustainability: Profile and Paradox." In _Global Accord: Environmental Challenges and International Responses_. Edited by Nazli Choucri. Cambridge, MA: MIT Press, 1993, pp. 67-132. ISBN: 9780262032001.
+{{% resource_link "4e714539-4fd6-4931-b400-5d1a327fc25c" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Choucri, Nazli, and Robert C. North. "Growth, Development, and Environmental Sustainability: Profile and Paradox." In _Global Accord: Environmental Challenges and International Responses_. Edited by Nazli Choucri. Cambridge, MA: MIT Press, 1993, pp. 67-132. ISBN: 9780262032001.
 
 Clark, Ian. _Globalization and International Relations Theory_. Oxford, UK: Oxford University Press, 1999, chapters 4 and 5. ISBN: 9780198782094.
 
@@ -139,7 +139,7 @@ _Related Readings_
 
 Pollins, Brian M., and Randall L. Schweller. "Linking the Levels: The Long Wave and Shifts in U.S. Foreign Policy, 1790-1993." _American Journal of Political Science_ 40, no. 2 (1999): 431-464.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262611442) Jervis, Robert. "Realism in the Study of World Politics." In _Exploration and Contestation in the Study of World Politics_. Edited by Peter J. Katzenstein, Robert O. Keohane, and Stephen D. Krasner. Cambridge, MA: MIT Press, 1999, pp. 331-351. ISBN: 9780262611442.
+{{% resource_link "eb61a6a0-4a7e-47a6-80a1-23d814c94671" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Jervis, Robert. "Realism in the Study of World Politics." In _Exploration and Contestation in the Study of World Politics_. Edited by Peter J. Katzenstein, Robert O. Keohane, and Stephen D. Krasner. Cambridge, MA: MIT Press, 1999, pp. 331-351. ISBN: 9780262611442.
 
 
 {{< tdclose >}}
@@ -161,9 +161,9 @@ Choucri, Nazli, ed. _Multidisciplinary Perspectives on Population and Conflict_.
 
 Kates, Robert W. "Population, Technology, and the Human Environment: A Thread Through Time." In _Technological Trajectories and the Human Environment_. Edited by Jesse H. Ausubel and H. Dale Langford. Washington, DC: National Academy Press, 1997, pp. 33-35. ISBN: 9780309051330.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262621236) Kuehls, Thom. "Between Sovereignty and Environment: An Exploration of the Discourse of Government." In _The Greening of Sovereignty in World Politics_. Edited by Karen T. Litfin. Cambridge, MA: MIT Press, 1998, pp. 31-53. ISBN: 9780262621236.
+{{% resource_link "f21f8b36-b2fe-4c99-9452-fac79c7f7419" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Kuehls, Thom. "Between Sovereignty and Environment: An Exploration of the Discourse of Government." In _The Greening of Sovereignty in World Politics_. Edited by Karen T. Litfin. Cambridge, MA: MIT Press, 1998, pp. 31-53. ISBN: 9780262621236.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262621236) Wapner, Paul. "Reorienting State Sovereignty: Rights and Responsibilities in the Environmental Age." In _The Greening of Sovereignty in World Politics_. Edited by Karen T. Litfin. Cambridge, MA: MIT Press, 1998, pp. 275-297. ISBN: 9780262621236.
+{{% resource_link "f21f8b36-b2fe-4c99-9452-fac79c7f7419" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Wapner, Paul. "Reorienting State Sovereignty: Rights and Responsibilities in the Environmental Age." In _The Greening of Sovereignty in World Politics_. Edited by Karen T. Litfin. Cambridge, MA: MIT Press, 1998, pp. 275-297. ISBN: 9780262621236.
 
 _Related Readings_
 
@@ -189,9 +189,9 @@ Allenby, Braden R. "The Information Revolution and Sustainability: Mutually Rein
 
 Choucri, Nazli. "Knowledge Networking for Global Sustainability: New Modes of Cyberpartnering." In _Information Systems and the Environment_. Edited by Deanna J. Richards, Braden R. Allenby, and W. Dale Compton. Washington, DC: National Academy Press, 2001, pp. 195-210. ISBN: 9780309062435.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262621236) Litfin, Karen T. "Satellites and Sovereign Knowledge: Remote Sensing of the Global Environment." In _The Greening of Sovereignty in World Politics_. Edited by Karen T. Litfin. Cambridge, MA: MIT Press, 1998, pp. 193-221. ISBN: 9780262621236.
+{{% resource_link "f21f8b36-b2fe-4c99-9452-fac79c7f7419" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Litfin, Karen T. "Satellites and Sovereign Knowledge: Remote Sensing of the Global Environment." In _The Greening of Sovereignty in World Politics_. Edited by Karen T. Litfin. Cambridge, MA: MIT Press, 1998, pp. 193-221. ISBN: 9780262621236.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262032001) Rothenberg, Jerome. "Economic Perspectives on Time Comparisons: An Evaluation of Time Discounting." In _Global Accord: Environmental Challenges and International Responses_. Edited by Nazli Choucri. Cambridge, MA: MIT Press, 1993, pp. 307-332. ISBN: 9780262032001.
+{{% resource_link "4e714539-4fd6-4931-b400-5d1a327fc25c" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Rothenberg, Jerome. "Economic Perspectives on Time Comparisons: An Evaluation of Time Discounting." In _Global Accord: Environmental Challenges and International Responses_. Edited by Nazli Choucri. Cambridge, MA: MIT Press, 1993, pp. 307-332. ISBN: 9780262032001.
 
 _Related Readings_
 
@@ -329,11 +329,11 @@ Alker, Hayward R., Jr., and Thomas J. Biersteker. "The Dialectics of World Order
 
 Gourevitch, Peter. "The Second Image Reversed: the International Sources of Domestic Politics." _International Organization_ 32, no. 4 (1978): 881-912.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262032001) Haas, Peter M. with Jan Sundgren. "Evolving International Environmental Law: Changing Practices of National Sovereignty." In _Global Accord: Environmental Challenges and International Responses_. Edited by Nazli Choucri. Cambridge, MA: MIT Press, 1993, pp. 401-429. ISBN: 9780262032001.
+{{% resource_link "4e714539-4fd6-4931-b400-5d1a327fc25c" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Haas, Peter M. with Jan Sundgren. "Evolving International Environmental Law: Changing Practices of National Sovereignty." In _Global Accord: Environmental Challenges and International Responses_. Edited by Nazli Choucri. Cambridge, MA: MIT Press, 1993, pp. 401-429. ISBN: 9780262032001.
 
 Putnam, Robert D. "Diplomacy and Domestic Politics: the Logic of Two-Level Games." _International Organization_ 42, no. 3 (1988): 427-460.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262611442) Ruggie, John Gerard. "What Makes the World Hang Together? Neo-utilitarianism and the Social Constructivist Challenge." In _Exploration and Contestation in the Study of World Politics_. Edited by Peter J. Katzenstein, Robert O. Keohane, and Stephen D. Krasner. Cambridge, MA: MIT Press, 1999, pp. 215-245. ISBN: 9780262611442.
+{{% resource_link "eb61a6a0-4a7e-47a6-80a1-23d814c94671" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Ruggie, John Gerard. "What Makes the World Hang Together? Neo-utilitarianism and the Social Constructivist Challenge." In _Exploration and Contestation in the Study of World Politics_. Edited by Peter J. Katzenstein, Robert O. Keohane, and Stephen D. Krasner. Cambridge, MA: MIT Press, 1999, pp. 215-245. ISBN: 9780262611442.
 
 _Related Readings_
 
@@ -355,13 +355,13 @@ Dynamics of International Political Economy
 
 _Required Readings_
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262032001) Choucri, Nazli. "Multinational Corporations and the Global Environment." In _Global Accord: Environmental Challenges and International Responses_. Edited by Nazli Choucri. Cambridge, MA: MIT Press, 1993, pp. 205-253. ISBN: 9780262032001.
+{{% resource_link "4e714539-4fd6-4931-b400-5d1a327fc25c" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Choucri, Nazli. "Multinational Corporations and the Global Environment." In _Global Accord: Environmental Challenges and International Responses_. Edited by Nazli Choucri. Cambridge, MA: MIT Press, 1993, pp. 205-253. ISBN: 9780262032001.
 
 Allenby, Braden R. "Environmental Constraints and the Evolution of the Private Firm." In _The Industrial Green Game: Implications for Environmental Design and Management_. Edited by Deanna J. Richards. Washington, DC: National Academy Press, 1997, pp. 101-113. ISBN: 9780309052948.
 
 Jackson, John J. "World Trade Rules and Environmental Policies: Congruence or Conflict?" _Washington and Lee Law Review_ 49 (1992): 1227-1277.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262122450) Lofdahl, Corey L. _Environmental Impacts of Globalization and Trade: A Systems Study_. Cambridge, MA: MIT Press, 2002, chapters 1 and 2. ISBN: 9780262122450.
+{{% resource_link "be434cbf-5f02-4186-ac5e-e44dbc1cac30" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Lofdahl, Corey L. _Environmental Impacts of Globalization and Trade: A Systems Study_. Cambridge, MA: MIT Press, 2002, chapters 1 and 2. ISBN: 9780262122450.
 
 Williamson, Jeffrey A. "Globalization and Inequality, Past and Present." In _International Political Economy: Perspectives on Global Power and Wealth_ . 4th ed. Edited by Frieden, Jeffry A. and David A. Lake. New York, NY: Routledge, 1999, pp. 405-416. ISBN: 9780415222792.
 
@@ -389,11 +389,11 @@ Hardin, Garrett. "The Tragedy of the Commons." In _Economics of the Environment:
 
 Keohane, Robert O. "International Institutions: Two Approaches." _International Studies Quarterly_ 32 (1988): 379-96.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262611442) March, James G., and Johan P. Olsen. "The Institutional Dynamics of International Political Orders." In _Exploration and Contestation in the Study of World Politics_. Edited by Peter J. Katzenstein, Robert O. Keohane, and Stephen D. Krasner. Cambridge, MA: MIT Press, 1999, pp. 303-329. ISBN: 9780262611442.
+{{% resource_link "eb61a6a0-4a7e-47a6-80a1-23d814c94671" "![Buy at MIT Press](/images/mp_logo.gif)" %}} March, James G., and Johan P. Olsen. "The Institutional Dynamics of International Political Orders." In _Exploration and Contestation in the Study of World Politics_. Edited by Peter J. Katzenstein, Robert O. Keohane, and Stephen D. Krasner. Cambridge, MA: MIT Press, 1999, pp. 303-329. ISBN: 9780262611442.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262611442) Martin, Lisa L., and Beth A. Simmons. "Theories and Empirical Studies of International Institutions." In _Exploration and Contestation in the Study of World Politics_. Edited by Peter J. Katzenstein, Robert O. Keohane, and Stephen D. Krasner. Cambridge, MA: MIT Press, 1999, pp. 89-117. ISBN: 9780262611442.
+{{% resource_link "eb61a6a0-4a7e-47a6-80a1-23d814c94671" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Martin, Lisa L., and Beth A. Simmons. "Theories and Empirical Studies of International Institutions." In _Exploration and Contestation in the Study of World Politics_. Edited by Peter J. Katzenstein, Robert O. Keohane, and Stephen D. Krasner. Cambridge, MA: MIT Press, 1999, pp. 89-117. ISBN: 9780262611442.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262032001) Rothenberg, Jerome. "Economic Perspectives on Time comparisons: An Evaluation of Time Discounting." In _Global Accord: Environmental Challenges and International Responses_. Edited by Nazli Choucri. Cambridge, MA: MIT Press, 1993, pp. 355-397. ISBN: 9780262032001.
+{{% resource_link "4e714539-4fd6-4931-b400-5d1a327fc25c" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Rothenberg, Jerome. "Economic Perspectives on Time comparisons: An Evaluation of Time Discounting." In _Global Accord: Environmental Challenges and International Responses_. Edited by Nazli Choucri. Cambridge, MA: MIT Press, 1993, pp. 355-397. ISBN: 9780262032001.
 
 Shepsle, Kenneth A. "Studying Institutions: Some Lessons from the Rational Choice Approach." _Journal of Theoretical Politics_ 1, no. 2 (1989): 131-147.
 
@@ -419,13 +419,13 @@ Transcending the State - Globalization and Civil Society
 
 _Required Readings_
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262621236) Deudney, Daniel. "Global Village Sovereignty: Intergenerational Sovereign Publics, Federal-Republican Earth Constitutions, and Planetary Identities." In _The Greening of Sovereignty in World Politics_. Edited by Karen T. Litfin. Cambridge, MA: MIT Press, 1998, pp. 299-325. ISBN: 9780262621236.
+{{% resource_link "f21f8b36-b2fe-4c99-9452-fac79c7f7419" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Deudney, Daniel. "Global Village Sovereignty: Intergenerational Sovereign Publics, Federal-Republican Earth Constitutions, and Planetary Identities." In _The Greening of Sovereignty in World Politics_. Edited by Karen T. Litfin. Cambridge, MA: MIT Press, 1998, pp. 299-325. ISBN: 9780262621236.
 
 Brawley, Mark R. _The Politics of Globalization_. Peterborough, Ontario: The Broadview Press, 2002, chapter 9. ISBN: 9781551112800.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262032001) Young, Oran R. "Negotiating an International Climate Regime: The Institutional Bargaining for Environmental Governance." In _Global Accord: Environmental Challenges and International Responses_. Edited by Nazli Choucri. Cambridge, MA: MIT Press, 1993, pp. 431-452. ISBN: 9780262032001.
+{{% resource_link "4e714539-4fd6-4931-b400-5d1a327fc25c" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Young, Oran R. "Negotiating an International Climate Regime: The Institutional Bargaining for Environmental Governance." In _Global Accord: Environmental Challenges and International Responses_. Edited by Nazli Choucri. Cambridge, MA: MIT Press, 1993, pp. 431-452. ISBN: 9780262032001.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262621236) Lipschutz, Ronnie D. "The Nature of Sovereignty and the Sovereignty of Nature: Problematizing the Boundaries between Self, Society, State, and System." In _The Greening of Sovereignty in World Politics_. Edited by Karen T. Litfin. Cambridge, MA: MIT Press, 1998, pp. 109-138. ISBN: 9780262621236.
+{{% resource_link "f21f8b36-b2fe-4c99-9452-fac79c7f7419" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Lipschutz, Ronnie D. "The Nature of Sovereignty and the Sovereignty of Nature: Problematizing the Boundaries between Self, Society, State, and System." In _The Greening of Sovereignty in World Politics_. Edited by Karen T. Litfin. Cambridge, MA: MIT Press, 1998, pp. 109-138. ISBN: 9780262621236.
 
 Clark, Ian. _Globalization and International Relations Theory_. Oxford, UK: Oxford University Press, 1999, chapters 7 and 8. ISBN: 9780198782094.
 
@@ -433,7 +433,7 @@ _Related Readings_
 
 Hirst, Paul, and Grahame Thompson. _Globalization in Question: The International Economy and the Possibilities of Governance_. 2nd ed. Malden, MA: Polity Press, 2001, chapter 9. ISBN: 9780745621647.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262032001) Victor, David G., Abram Chayes, and Eugene B. Skolnikoff. "Pragmatic Approaches to Regime Building for Complex International Problems." In _Global Accord: Environmental Challenges and International Responses_. Edited by Nazli Choucri. Cambridge, MA: MIT Press, 1993, pp. 453-474. ISBN: 9780262032001.
+{{% resource_link "4e714539-4fd6-4931-b400-5d1a327fc25c" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Victor, David G., Abram Chayes, and Eugene B. Skolnikoff. "Pragmatic Approaches to Regime Building for Complex International Problems." In _Global Accord: Environmental Challenges and International Responses_. Edited by Nazli Choucri. Cambridge, MA: MIT Press, 1993, pp. 453-474. ISBN: 9780262032001.
 
 
 {{< tdclose >}}
